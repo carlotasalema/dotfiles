@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = carlota.salema.98@gmail.com
+	name = Carlota Salema
